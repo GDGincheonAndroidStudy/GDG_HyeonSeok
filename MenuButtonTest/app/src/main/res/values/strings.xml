@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuButtonTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="child_activity">Child Activity</string>
+    <string name="search">Search</string>
+    <string name="action_layout">Action</string>
+    <string name="share">Share</string>
+</resources>
